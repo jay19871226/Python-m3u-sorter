@@ -21,11 +21,18 @@ exclusively held by J@y.
 ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫
 
 This script uses a m3u link
+
 1 Download m3u
+
 2 Separate categories
+
 3 Ask for options
+
 4 Ask to name m3u
+
 Save category chosen
+
 Test them make sure they work
+
 Save m3u
 ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫

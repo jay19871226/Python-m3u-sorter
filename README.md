@@ -31,14 +31,15 @@ exclusively held by ✅J@y.
    pip install art
    
    pip install tqdm
-   
-  
+
+⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫
+
 
 🔴 Folder Structure must be intact
 
 🔴 Dir support: 
 
-   downloads/gt8/ 
+   downloads/gt8/
    
    folders m3u, cache1
    
@@ -49,7 +50,15 @@ exclusively held by ✅J@y.
    
    downloaded_file.m3u
    
-🔴 Usage: python gt8.bin
+⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫
+
+   
+🔴 Usage:
+
+python gt8.bin
+
+⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫
+
 
 ©️This script uses a m3u link
 
@@ -66,4 +75,5 @@ exclusively held by ✅J@y.
 6 ✅Test them make sure they work
 
 7 ✅Save m3u
+
 ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫

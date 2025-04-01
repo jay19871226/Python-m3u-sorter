@@ -22,20 +22,30 @@ exclusively held by ✅J@y.
 
 ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫
 🟢 These modules must be installed.
+
 🔳 Modules Needed 
+
    pip install requests
+   
    pip install art
+   
    pip install tqdm
+   
   
 
 🔴 Folder Structure must be intact
 
 🔴 Dir support: 
+
    downloads/gt8/ 
+   
    folders m3u, cache1
+   
    files gt8.bin
    
+   
    cache1 : 
+   
    downloaded_file.m3u
    
 🔴 Usage: python gt8.bin

@@ -57,6 +57,10 @@ exclusively held by ✅J@y.
 
 python gt8.bin
 
+🔴Simple Python
+
+python gt8.py
+
 ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫
 
 
